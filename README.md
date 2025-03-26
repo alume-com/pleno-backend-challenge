@@ -1,5 +1,5 @@
 # :test_tube: Teste Prático Backend Pleno — Alume
-Este repositório contém o desafio técnico para a vaga de **Desenvolvedor(a) Backend Pleno**, com foco em **Node.js + TypeScript**, utilizando boas práticas de arquitetura e segurança. A proposta é simular funcionalidades que façam parte de um sistema de **gestão de contratos e financiamentos estudantis para estudantes de medicina**.
+Este repositório contém o desafio técnico para a vaga de **Desenvolvedor(a) Backend Pleno**, com foco em **Node.js + TypeScript**, utilizando boas práticas de arquitetura e segurança. A proposta é simular funcionalidades que façam parte de um sistema de **financiamentos estudantis para estudantes de medicina**.
 ---
 ## :brain: Contexto
 Nossa startup trabalha conectando **estudantes de medicina** a **financiamentos estudantis personalizados**. Este teste simula parte de um módulo interno que permite que estudantes se cadastrem e simulem financiamentos.
@@ -7,7 +7,6 @@ Você deverá desenvolver uma **RESTful API**, com autenticação via **JWT**, o
 - Se registrar
 - Realizar login
 - Consultar e editar seus dados
-- Criar e consultar seus contratos de financiamento
 - Simular novos financiamentos baseados em parâmetros específicos
 ---
 ## :package: Requisitos Técnicos
