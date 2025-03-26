@@ -12,7 +12,7 @@ Você deverá desenvolver uma **RESTful API**, com autenticação via **JWT**, o
 ## :package: Requisitos Técnicos
 - **Node.js com TypeScript**
 - ORM (Ex: Prisma, TypeORM ou Sequelize)
-- Banco de dados relacional (preferencialmente PostgreSQL ou MySQL)
+- Banco de dados relacional com docker-compose (preferencialmente PostgreSQL ou MySQL)
 - Autenticação via **JWT** com expiração de 5 minutos
 - Arquitetura modular e boas práticas (controllers, services, middlewares, etc.)
 - Validação de dados (com libs como `zod`, `joi` ou similares)
@@ -34,7 +34,7 @@ Você deverá desenvolver uma **RESTful API**, com autenticação via **JWT**, o
 - `valor_parcela_mensal`: calculado
 ---
 ## :closed_lock_with_key: Autenticação
-JWT com expiração de **5 minutos**.
+- JWT com expiração de **5 minutos**.
 ---
 ## Rotas Obrigatórias
 ### Estudantes
