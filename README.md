@@ -46,7 +46,7 @@ Você deverá desenvolver uma **RESTful API**, com autenticação via **JWT**, o
 ## :closed_lock_with_key: Autenticação
 JWT com expiração de **5 minutos**.
 ---
-## :satellite_antenna: Rotas Obrigatórias
+## Rotas Obrigatórias
 ### Estudantes
 - `POST /api/register` — Criação de novo estudante
 - `POST /api/login` — Autenticação
