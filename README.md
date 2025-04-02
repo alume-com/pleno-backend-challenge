@@ -72,4 +72,5 @@ Onde:
 - Utilize boas práticas de REST e clean code
 - Se quiser ir além: adicione testes, Swagger, ou documentação via Postman
 ---
+Você pode enviar o link para o seu repositório para developers@alume.com. Caso tenha dúvidas sobre algum aspecto do teste você pode enviá-las para o mesmo e-mail.
 Boa sorte e bom código! :rocket:
