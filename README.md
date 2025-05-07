@@ -1,4 +1,4 @@
-# :test_tube: Teste Prático Backend Pleno — Alume
+# :test_tube: Teste Prático Backend ou FullStack Pleno — Alume
 Este repositório contém o desafio técnico para a vaga de **Desenvolvedor(a) Backend Pleno**, com foco em **Node.js + TypeScript**, utilizando boas práticas de arquitetura e segurança. A proposta é simular funcionalidades que façam parte de um sistema de **financiamentos estudantis para estudantes de medicina**.
 ---
 ## :brain: Contexto
